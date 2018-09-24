@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body {
+                background-color: white;
+                margin: 0px;
+            }
+            .header {
+                background-color: #79AAFF;
+                width: 100%;
+                height: 80px;
+                margin: 0px;
+            }
+            .sidebar_bt {
+                height: 25px;
+                width: 145px;
+                background-color: rgba(255, 255, 255, 0);
+                border: 0;
+                outline: 0;
+                font-weight: bold;
+            }
+            .logo, .odd, .even {
+                height: 95%;
+                margin: -2px;
+                background-color: rgba(255, 255, 255, 0);
+                border: 0;
+                outline: 0;
+                font-weight: bold;
+                Unicode Book color: white;
+            }
+            .logo {
+                width: 12.5%;
+            }
+            .odd, .even {
+                width: 12.5%;
+            }
+            .sidebar {
+                background-color: #FFF29E;
+                position: fixed;
+                _position: absolute;
+                _z-index: -1;
+                width: 145px;
+                height: 150px;
+                overflow: hidden;
+                left: 0px;
+                top: 80px;
+                padding-right: 5px;
+            }
+
+            .contents {
+                position: initial;
+                width: calc(100% - 155px);
+                height: calc(100% - 80px);
+                float: right;
+                left: 155px;
+                top: 80px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="header">
+            <button class="logo" id="logo" onclick="location.href='../index.html'">MHW Book</button>
+            <button class="odd" id="guides" onclick="location.href='guides.html'">Guide Tab 📖</button>
+            <button class="even" id="items" onclick="location.href='items.html'">Items Tab ⚔️</button>
+            <button class="odd" id="mobs" onclick="location.href='mobs.html'">Mobs Tab 👾</button>
+            <button class="even" id="achives" onclick="location.href='achives.html'">Achive Tab 🏆</button>
+            <button class="odd" id="simul" onclick="location.href='simulator.html'">Simul Tab 👁</button>
+            <button class="even" id="boards" onclick="location.href='boards.html'">Board Tab 📋</button>
+            <button class="odd" id="event" onclick="location.href='events.html'">Event Tab 🎆</button>
+        </div>
+
+        <div class="sidebar">
+            <button class="sidebar_bt" id="Armors" onclick="location.href='Items/Armors.html"> - Armors   </button> </br>
+            <button class="sidebar_bt" id="Weapons" onclick="location.href='Items/Weapons.html"> - Weapons   </button> </br>
+            <button class="sidebar_bt" id="Charms" onclick="location.href='Items/Charms.html"> - Charms   </button> </br>
+            <button class="sidebar_bt" id="Mantles" onclick="location.href='Items/Mantles.html"> - Mantles   </button> </br>
+            <button class="sidebar_bt" id="Decorations" onclick="location.href='Items/Decorations.html'"> - Decorations </button> </br>
+            <button class="sidebar_bt" id="Skills" onclick="location.href='Items/Skills.html"> - Skills </button> </br>
+        </div>
+
+    </body>
+</html>
