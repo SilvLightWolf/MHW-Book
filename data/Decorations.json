@@ -1,0 +1,990 @@
+﻿{
+  "Skills": [
+    {
+      "id": 0,
+      "koname": "주",
+      "enname": "Jewel",
+      "koskill": "-",
+      "enskill": "-",
+      "level": 0,
+      "max": 0,
+      "rarity": 0
+    },
+    {
+      "id": 1,
+      "koname": "내폭주",
+      "enname": "Antiblast Jewel 1",
+      "koskill": "폭파 피해 내성",
+      "enskill": "Blast Resistance",
+      "level": 1,
+      "max": 3,
+      "rarity": 5
+    },
+    {
+      "id": 2,
+      "koname": "내독주",
+      "enname": "Antidote Jewel 1",
+      "koskill": "독 내성",
+      "enskill": "Poison Resistance",
+      "level": 1,
+      "max": 3,
+      "rarity": 5
+    },
+    {
+      "id": 3,
+      "koname": "내비주",
+      "enname": "Antipara Jewel 1",
+      "koskill": "마비 내성",
+      "enskill": "Paralysis Resistance",
+      "level": 1,
+      "max": 3,
+      "rarity": 5
+    },
+    {
+      "id": 4,
+      "koname": "포술주",
+      "enname": "Artillery Jewel 1",
+      "koskill": "포술",
+      "enskill": "Artillery",
+      "level": 1,
+      "max": 3,
+      "rarity": 8
+    },
+    {
+      "id": 5,
+      "koname": "공격주",
+      "enname": "Attack Jewel 1",
+      "koskill": "공격",
+      "enskill": "Attack Boost",
+      "level": 1,
+      "max": 7,
+      "rarity": 7
+    },
+    {
+      "id": 6,
+      "koname": "폭파주",
+      "enname": "Blast Jewel 1",
+      "koskill": "폭파속성 강화",
+      "enskill": "Blast Attack",
+      "level": 1,
+      "max": 3,
+      "rarity": 7
+    },
+    {
+      "id": 7,
+      "koname": "폭파병주",
+      "enname": "Blastcoat Jewel 3",
+      "koskill": "폭파병 추가",
+      "enskill": "Blast Functionality",
+      "level": 3,
+      "max": 1,
+      "rarity": 7
+    },
+    {
+      "id": 8,
+      "koname": "뇌광주",
+      "enname": "Bolt Jewel 1",
+      "koskill": "번개속성 공격 강화",
+      "enskill": "Thunder Attack",
+      "level": 1,
+      "max": 5,
+      "rarity": 6
+    },
+    {
+      "id": 9,
+      "koname": "폭사주",
+      "enname": "Bomber Jewel 1",
+      "koskill": "보머",
+      "enskill": "Bombardier",
+      "level": 1,
+      "max": 3,
+      "rarity": 6
+    },
+    {
+      "id": 10,
+      "koname": "식학주",
+      "enname": "Botany Jewel 1",
+      "koskill": "식생학",
+      "enskill": "Botanist",
+      "level": 1,
+      "max": 4,
+      "rarity": 5
+    },
+    {
+      "id": 11,
+      "koname": "내충주",
+      "enname": "Brace Jewel 3",
+      "koskill": "움찔 감소",
+      "enskill": "Flinch Free",
+      "level": 3,
+      "max": 3,
+      "rarity": 6
+    },
+    {
+      "id": 12,
+      "koname": "도전주",
+      "enname": "Challenger Jewel 2",
+      "koskill": "도전자",
+      "enskill": "Agitator",
+      "level": 2,
+      "max": 5,
+      "rarity": 7
+    },
+    {
+      "id": 13,
+      "koname": "단축주",
+      "enname": "Charger Jewel 2",
+      "koskill": "집중",
+      "enskill": "Focus",
+      "level": 2,
+      "max": 3,
+      "rarity": 8
+    },
+    {
+      "id": 14,
+      "koname": "궁지주",
+      "enname": "Crisis Jewel 1",
+      "koskill": "돌파구",
+      "enskill": "Resuscitate",
+      "level": 1,
+      "max": 1,
+      "rarity": 5
+    },
+    {
+      "id": 15,
+      "koname": "초심주",
+      "enname": "Critical Boost Jewel 2",
+      "koskill": "슈퍼회심",
+      "enskill": "Critical Boost",
+      "level": 2,
+      "max": 3,
+      "rarity": 8
+    },
+    {
+      "id": 16,
+      "koname": "내방주",
+      "enname": "Def Lock Jewel 1",
+      "koskill": "방어력 DOWN 내성",
+      "enskill": "Iron Skin",
+      "level": 1,
+      "max": 3,
+      "rarity": 5
+    },
+    {
+      "id": 17,
+      "koname": "방어주",
+      "enname": "Defense Jewel 1",
+      "koskill": "방어",
+      "enskill": "Defense Boost",
+      "level": 1,
+      "max": 7,
+      "rarity": 6
+    },
+    {
+      "id": 18,
+      "koname": "중격주",
+      "enname": "Destroyer Jewel 2",
+      "koskill": "파괴왕",
+      "enskill": "Partbreaker",
+      "level": 2,
+      "max": 3,
+      "rarity": 6
+    },
+    {
+      "id": 19,
+      "koname": "파룡주",
+      "enname": "Dragon Jewel 2",
+      "koskill": "용속성 공격 강화",
+      "enskill": "Dragon Attack",
+      "level": 1,
+      "max": 5,
+      "rarity": 6
+    },
+    {
+      "id": 20,
+      "koname": "내룡주",
+      "enname": "Dragon Res Jewel 1",
+      "koskill": "용 내성",
+      "enskill": "Dragon Resistance",
+      "level": 1,
+      "max": 3,
+      "rarity": 5
+    },
+    {
+      "id": 21,
+      "koname": "용봉주",
+      "enname": "Dragonseal Jewel 3",
+      "koskill": "용봉력 강화",
+      "enskill": "Elderseal Boost",
+      "level": 3,
+      "max": 1,
+      "rarity": 7
+    },
+    {
+      "id": 22,
+      "koname": "탈기주",
+      "enname": "Drain Jewel 1",
+      "koskill": "스태미나 탈취",
+      "enskill": "Stamina Thief",
+      "level": 1,
+      "max": 3,
+      "rarity": 6
+    },
+    {
+      "id": 23,
+      "koname": "발도주",
+      "enname": "Draw Jewel 2",
+      "koskill": "발도술 [기]",
+      "enskill": "Critical Draw",
+      "level": 2,
+      "max": 3,
+      "rarity": 8
+    },
+    {
+      "id": 24,
+      "koname": "방음주",
+      "enname": "Earplug Jewel 3",
+      "koskill": "귀마개",
+      "enskill": "Earplugs",
+      "level": 3,
+      "max": 5,
+      "rarity": 6
+    },
+    {
+      "id": 25,
+      "koname": "무격주",
+      "enname": "Elementless Jewel 2",
+      "koskill": "무속성 강화",
+      "enskill": "Non-Elemental Boost",
+      "level": 2,
+      "max": 1,
+      "rarity": 6
+    },
+    {
+      "id": 26,
+      "koname": "지속주",
+      "enname": "Enduring Jewel 1",
+      "koskill": "아이템 사용 강화",
+      "enskill": "Item Prelonger",
+      "level": 1,
+      "max": 3,
+      "rarity": 6
+    },
+    {
+      "id": 27,
+      "koname": "고양주",
+      "enname": "Enhancerr Jewel 2",
+      "koskill": "강화 지속",
+      "enskill": "Power Prelonger",
+      "level": 2,
+      "max": 3,
+      "rarity": 7
+    },
+    {
+      "id": 28,
+      "koname": "회피주",
+      "enname": "Evasion Jewel 2",
+      "koskill": "회피 성능",
+      "enskill": "Evade Window",
+      "level": 2,
+      "max": 5,
+      "rarity": 6
+    },
+    {
+      "id": 29,
+      "koname": "달인주",
+      "enname": "Expoert Jewel 1",
+      "koskill": "간파",
+      "enskill": "Critical Eye",
+      "level": 1,
+      "max": 7,
+      "rarity": 6
+    },
+    {
+      "id": 30,
+      "koname": "내화주",
+      "enname": "Fire Res Jewel 1",
+      "koskill": "불 내성",
+      "enskill": "Fire Resistance",
+      "level": 1,
+      "max": 3,
+      "rarity": 5
+    },
+    {
+      "id": 31,
+      "koname": "무결주",
+      "enname": "Flawless Jewel 2",
+      "koskill": "완전충전",
+      "enskill": "Peak Performance",
+      "level": 2,
+      "max": 3,
+      "rarity": 7
+    },
+    {
+      "id": 32,
+      "koname": "비연주",
+      "enname": "Flight Jewel 2",
+      "koskill": "비연",
+      "enskill": "Airborne",
+      "level": 2,
+      "max": 1,
+      "rarity": 5
+    },
+    {
+      "id": 33,
+      "koname": "내진주",
+      "enname": "Footing Jewel 2",
+      "koskill": "내진",
+      "enskill": "Tremor Resistance",
+      "level": 2,
+      "max": 3,
+      "rarity": 6
+    },
+    {
+      "id": 34,
+      "koname": "강탄주",
+      "enname": "Forceshot Jewel 3",
+      "koskill": "통상탄/통상화살 강화",
+      "enskill": "Normal Shots",
+      "level": 3,
+      "max": 1,
+      "rarity": 7
+    },
+    {
+      "id": 35,
+      "koname": "역경주",
+      "enname": "Fortitude Jewel 1",
+      "koskill": "불굴",
+      "enskill": "Fortify",
+      "level": 1,
+      "max": 1,
+      "rarity": 5
+    },
+    {
+      "id": 36,
+      "koname": "우애주",
+      "enname": "Friends Jewel 1",
+      "koskill": "광역화",
+      "enskill": "Wide-Range",
+      "level": 1,
+      "max": 5,
+      "rarity": 6
+    },
+    {
+      "id": 37,
+      "koname": "빙결주",
+      "enname": "Frost Jewel 1",
+      "koskill": "얼음속성 공격 강화",
+      "enskill": "Ice Attack",
+      "level": 1,
+      "max": 5,
+      "rarity": 6
+    },
+    {
+      "id": 38,
+      "koname": "이호주",
+      "enname": "Fungiform Jewel 1",
+      "koskill": "버섯 애호가",
+      "enskill": "Mushroomancer",
+      "level": 1,
+      "max": 3,
+      "rarity": 8
+    },
+    {
+      "id": 39,
+      "koname": "역상주",
+      "enname": "Furor Jewel 1",
+      "koskill": "양심",
+      "enskill": "Resentment",
+      "level": 2,
+      "max": 5,
+      "rarity": 7
+    },
+    {
+      "id": 40,
+      "koname": "지학주",
+      "enname": "Geology Jewel 1",
+      "koskill": "지질학",
+      "enskill": "Geologist",
+      "level": 1,
+      "max": 3,
+      "rarity": 5
+    },
+    {
+      "id": 41,
+      "koname": "흡입주",
+      "enname": "Gobbler Jewel 1",
+      "koskill": "빨리 먹기",
+      "enskill": "Speed Eating",
+      "level": 1,
+      "max": 3,
+      "rarity": 6
+    },
+    {
+      "id": 42,
+      "koname": "연마주",
+      "enname": "Grinder Jewel 1",
+      "koskill": "숫돌 사용 고속화",
+      "enskill": "Speed Sharpening",
+      "level": 1,
+      "max": 3,
+      "rarity": 6
+    },
+    {
+      "id": 43,
+      "koname": "장인주",
+      "enname": "Handicraft Jewel 3",
+      "koskill": "장인",
+      "enskill": "Handicraft",
+      "level": 3,
+      "max": 5,
+      "rarity": 8
+    },
+    {
+      "id": 44,
+      "koname": "포수주",
+      "enname": "Heavy Artillery Jewel 1",
+      "koskill": "포격수",
+      "enskill": "Heavy Artillery",
+      "level": 1,
+      "max": 2,
+      "rarity": 5
+    },
+    {
+      "id": 45,
+      "koname": "공복주",
+      "enname": "Hungerless Jewel 1",
+      "koskill": "배고픔 내성",
+      "enskill": "Hunger Resistance",
+      "level": 1,
+      "max": 3,
+      "rarity": 5
+    },
+    {
+      "id": 46,
+      "koname": "내빙주",
+      "enname": "Ice Res Jewel 1",
+      "koskill": "얼음 내성",
+      "enskill": "Ice Resistance",
+      "level": 1,
+      "max": 3,
+      "rarity": 5
+    },
+    {
+      "id": 47,
+      "koname": "위하주",
+      "enname": "Intimidator Jewel 1",
+      "koskill": "위협",
+      "enskill": "Intimidator",
+      "level": 1,
+      "max": 3,
+      "rarity": 5
+    },
+    {
+      "id": 48,
+      "koname": "철벽",
+      "enname": "Ironwall Jewel 1",
+      "koskill": "가드 성능",
+      "enskill": "Guard",
+      "level": 1,
+      "max": 5,
+      "rarity": 7
+    },
+    {
+      "id": 49,
+      "koname": "도약주",
+      "enname": "Jumping Jewel 2",
+      "koskill": "회피 거리 UP",
+      "enskill": "Evade Extender",
+      "level": 2,
+      "max": 3,
+      "rarity": 6
+    },
+    {
+      "id": 50,
+      "koname": "KO주",
+      "enname": "KO Jewel 2",
+      "koskill": "KO술",
+      "enskill": "Slugger",
+      "level": 2,
+      "max": 3,
+      "rarity": 6
+    },
+    {
+      "id": 51,
+      "koname": "증탄주",
+      "enname": "Magazine Jewel 2",
+      "koskill": "포탄 장전 수 UP",
+      "enskill": "Capacity Boost",
+      "level": 2,
+      "max": 1,
+      "rarity": 7
+    },
+    {
+      "id": 52,
+      "koname": "정비주",
+      "enname": "Maintenance Jewel 1",
+      "koskill": "정비",
+      "enskill": "Tool Specialist",
+      "level": 1,
+      "max": 3,
+      "rarity": 5
+    },
+    {
+      "id": 53,
+      "koname": "치유주",
+      "enname": "Medicine Jewel 1",
+      "koskill": "체력 회복량 UP",
+      "enskill": "Recovery Up",
+      "level": 1,
+      "max": 3,
+      "rarity": 6
+    },
+    {
+      "id": 54,
+      "koname": "지시주",
+      "enname": "Meowster Jewel 1",
+      "koskill": "동반자 지휘",
+      "enskill": "Palico Rally",
+      "level": 1,
+      "max": 5,
+      "rarity": 5
+    },
+    {
+      "id": 55,
+      "koname": "내장주",
+      "enname": "Miasma Jewel 1",
+      "koskill": "독기 내성",
+      "enskill": "Effluvia Resistance",
+      "level": 1,
+      "max": 3,
+      "rarity": 5
+    },
+    {
+      "id": 56,
+      "koname": "강궁주",
+      "enname": "Mighty Bow Jewel 2",
+      "koskill": "활 모으기 단계 해제",
+      "enskill": "Bow Charge Plus",
+      "level": 2,
+      "max": 1,
+      "rarity": 8
+    },
+    {
+      "id": 57,
+      "koname": "혼신주",
+      "enname": "Mighty Jewel 2",
+      "koskill": "혼신",
+      "enskill": "Maximum Might",
+      "level": 2,
+      "max": 3,
+      "rarity": 7
+    },
+    {
+      "id": 58,
+      "koname": "심안주",
+      "enname": "Mind's Eye Jewel 2",
+      "koskill": "심안/탄도 강화",
+      "enskill": "Mind Eye/Ballistic",
+      "level": 2,
+      "max": 1,
+      "rarity": 8
+    },
+    {
+      "id": 59,
+      "koname": "소도주",
+      "enname": "Mirewalker Jewel 1",
+      "koskill": "물가 적응",
+      "enskill": "Aquatic Export",
+      "level": 1,
+      "max": 3,
+      "rarity": 5
+    },
+    {
+      "id": 60,
+      "koname": "마비병주",
+      "enname": "Paracoat Jewel 3",
+      "koskill": "마비병 추가",
+      "enskill": "Paralysis Functionality",
+      "level": 3,
+      "max": 1,
+      "rarity": 7
+    },
+    {
+      "id": 61,
+      "koname": "마비주",
+      "enname": "Paralyzer Jewel 1",
+      "koskill": "마비속성 강화",
+      "enskill": "Paralysis Attack",
+      "level": 1,
+      "max": 3,
+      "rarity": 7
+    },
+    {
+      "id": 62,
+      "koname": "내면주",
+      "enname": "Pep Jewel 1",
+      "koskill": "수면 내성",
+      "enskill": "Sleep Resistance",
+      "level": 1,
+      "max": 3,
+      "rarity": 5
+    },
+    {
+      "id": 63,
+      "koname": "체술주",
+      "enname": "Physique Jewel 2",
+      "koskill": "체술",
+      "enskill": "Constitution",
+      "level": 2,
+      "max": 5,
+      "rarity": 6
+    },
+    {
+      "id": 64,
+      "koname": "관통주",
+      "enname": "Pierce Jewel 3",
+      "koskill": "관통탄/용화살 강화",
+      "enskill": "Piercing Shots",
+      "level": 3,
+      "max": 1,
+      "rarity": 8
+    },
+    {
+      "id": 65,
+      "koname": "독병주",
+      "enname": "Poisoncoat Jewel 3",
+      "koskill": "독병 추가",
+      "enskill": "Poison Functionality",
+      "level": 3,
+      "max": 1,
+      "rarity": 6
+    },
+    {
+      "id": 66,
+      "koname": "저력주",
+      "enname": "Potential Jewel 2",
+      "koskill": "재난대처능력",
+      "enskill": "Heroics",
+      "level": 2,
+      "max": 5,
+      "rarity": 7
+    },
+    {
+      "id": 67,
+      "koname": "가호주",
+      "enname": "Protection Jewel 1",
+      "koskill": "정령의 가호",
+      "enskill": "Divine Blessing",
+      "level": 1,
+      "max": 3,
+      "rarity": 5
+    },
+    {
+      "id": 68,
+      "koname": "조복주",
+      "enname": "Recovery Jewel 1",
+      "koskill": "회복 속도",
+      "enskill": "Recovery Speed",
+      "level": 1,
+      "max": 3,
+      "rarity": 6
+    },
+    {
+      "id": 69,
+      "koname": "조기주",
+      "enname": "Refresh Jewel 2",
+      "koskill": "스태미나 급속 회복",
+      "enskill": "Stamina Surge",
+      "level": 2,
+      "max": 3,
+      "rarity": 7
+    },
+    {
+      "id": 70,
+      "koname": "해방주",
+      "enname": "Release Jewel 3",
+      "koskill": "속성해방/장전확장",
+      "enskill": "Free Elem/Ammo Up",
+      "level": 3,
+      "max": 3,
+      "rarity": 8
+    },
+    {
+      "id": 71,
+      "koname": "내속주",
+      "enname": "Resistor Jewel 1",
+      "koskill": "속성 피해 내성",
+      "enskill": "Blight Resistance",
+      "level": 1,
+      "max": 3,
+      "rarity": 6
+    },
+    {
+      "id": 72,
+      "koname": "절식주",
+      "enname": "Satiated Jewel 1",
+      "koskill": "만족감",
+      "enskill": "Free Meal",
+      "level": 1,
+      "max": 1,
+      "rarity": 5
+    },
+    {
+      "id": 73,
+      "koname": "후각주",
+      "enname": "Scent Jewel 1",
+      "koskill": "추적의 달인",
+      "enskill": "Scenthound",
+      "level": 1,
+      "max": 1,
+      "rarity": 5
+    },
+    {
+      "id": 74,
+      "koname": "강인주",
+      "enname": "Sharp Jewel 2",
+      "koskill": "칼날 연마",
+      "enskill": "Protective Polish",
+      "level": 2,
+      "max": 1,
+      "rarity": 7
+    },
+    {
+      "id": 75,
+      "koname": "속납주",
+      "enname": "Sheath Jewel 1",
+      "koskill": "납도술",
+      "enskill": "Quick Sheath",
+      "level": 1,
+      "max": 3,
+      "rarity": 6
+    },
+    {
+      "id": 76,
+      "koname": "강벽주",
+      "enname": "Shield Jewel 2",
+      "koskill": "가드 강화",
+      "enskill": "Guard Up",
+      "level": 2,
+      "max": 1,
+      "rarity": 7
+    },
+    {
+      "id": 77,
+      "koname": "수면주",
+      "enname": "Sleep Jewel 1",
+      "koskill": "수면속성 강화",
+      "enskill": "Sleep Attack",
+      "level": 1,
+      "max": 3,
+      "rarity": 7
+    },
+    {
+      "id": 78,
+      "koname": "수면병주",
+      "enname": "Sleepcoat Jewel 3",
+      "koskill": "수면병 추가",
+      "enskill": "Sleep Functionality",
+      "level": 3,
+      "max": 1,
+      "rarity": 7
+    },
+    {
+      "id": 79,
+      "koname": "활주주",
+      "enname": "Slider Jewel 2",
+      "koskill": "활주 강화",
+      "enskill": "Affinity Sliding",
+      "level": 2,
+      "max": 1,
+      "rarity": 6
+    },
+    {
+      "id": 80,
+      "koname": "연복주",
+      "enname": "Smoke Jewel 1",
+      "koskill": "면 포자풀의 지식",
+      "enskill": "Sporepuff Expert",
+      "level": 1,
+      "max": 3,
+      "rarity": 5
+    },
+    {
+      "id": 81,
+      "koname": "고적주",
+      "enname": "Sonorous Jewel 1",
+      "koskill": "피리 명인",
+      "enskill": "Horn Maestro",
+      "level": 1,
+      "max": 1,
+      "rarity": 6
+    },
+    {
+      "id": 82,
+      "koname": "표본주",
+      "enname": "Specimen Jewel 1",
+      "koskill": "곤충 표본의 달인",
+      "enskill": "Entomologist",
+      "level": 1,
+      "max": 3,
+      "rarity": 5
+    },
+    {
+      "id": 83,
+      "koname": "산탄주",
+      "enname": "Spread Jewel 3",
+      "koskill": "산탄/강사 강화",
+      "enskill": "Spread/Power Shots",
+      "level": 3,
+      "max": 1,
+      "rarity": 8
+    },
+    {
+      "id": 84,
+      "koname": "강주주",
+      "enname": "Sprinter Jewel 2",
+      "koskill": "런너",
+      "enskill": "Marathon Runner",
+      "level": 2,
+      "max": 3,
+      "rarity": 8
+    },
+    {
+      "id": 85,
+      "koname": "내절주",
+      "enname": "Steadfast Jewel 1",
+      "koskill": "기절 내성",
+      "enskill": "Stun Resistance",
+      "level": 1,
+      "max": 3,
+      "rarity": 6
+    },
+    {
+      "id": 86,
+      "koname": "투석주",
+      "enname": "Slinger Capacity Jewel 1",
+      "koskill": "슬링어 장전 수 UP",
+      "enskill": "Slinger Capacity",
+      "level": 1,
+      "max": 3,
+      "rarity": 6
+    },
+    {
+      "id": 87,
+      "koname": "유수주",
+      "enname": "Stream Jewel 1",
+      "koskill": "물속성 공격 강화",
+      "enskill": "Water Attack",
+      "level": 1,
+      "max": 5,
+      "rarity": 6
+    },
+    {
+      "id": 88,
+      "koname": "내열주",
+      "enname": "Suture Jewel 1",
+      "koskill": "열상 내성",
+      "enskill": "Bleeding Resistance",
+      "level": 1,
+      "max": 3,
+      "rarity": 5
+    },
+    {
+      "id": 89,
+      "koname": "통격주",
+      "enname": "Tenderizer Jewel 2",
+      "koskill": "약점 특효",
+      "enskill": "Weakness Exploit",
+      "level": 2,
+      "max": 3,
+      "rarity": 6
+    },
+    {
+      "id": 90,
+      "koname": "전개주",
+      "enname": "Throttle Jewel 2",
+      "koskill": "힘의 해방",
+      "enskill": "Latent Power",
+      "level": 2,
+      "max": 5,
+      "rarity": 7
+    },
+    {
+      "id": 91,
+      "koname": "내뢰주",
+      "enname": "Thunder Res Jewel 1",
+      "koskill": "번개 내성",
+      "enskill": "Thunder Resistance",
+      "level": 1,
+      "max": 3,
+      "rarity": 5
+    },
+    {
+      "id": 92,
+      "koname": "잠복주",
+      "enname": "Tip Toe Jewel 1",
+      "koskill": "잠복",
+      "enskill": "Stealth",
+      "level": 1,
+      "max": 3,
+      "rarity": 5
+    },
+    {
+      "id": 93,
+      "koname": "특사주",
+      "enname": "Trueshot Jewel 1",
+      "koskill": "특수 사격 강화",
+      "enskill": "Special Ammo Boost",
+      "level": 1,
+      "max": 2,
+      "rarity": 7
+    },
+    {
+      "id": 94,
+      "koname": "독주",
+      "enname": "Venom Jewel 1",
+      "koskill": "독속성 강화",
+      "enskill": "Poison Attack",
+      "level": 1,
+      "max": 3,
+      "rarity": 6
+    },
+    {
+      "id": 95,
+      "koname": "체력주",
+      "enname": "Vitality Jewel 1",
+      "koskill": "체력 증강",
+      "enskill": "Health Boost",
+      "level": 1,
+      "max": 3,
+      "rarity": 5
+    },
+    {
+      "id": 96,
+      "koname": "내수주",
+      "enname": "Water Res Jewel 1",
+      "koskill": "물 내성",
+      "enskill": "Water Resistance",
+      "level": 1,
+      "max": 3,
+      "rarity": 5
+    },
+    {
+      "id": 97,
+      "koname": "방풍주",
+      "enname": "Wind Resist Jewel 2",
+      "koskill": "풍압 내성",
+      "enskill": "Windproof",
+      "level": 2,
+      "max": 5,
+      "rarity": 6
+    }
+  ],
+  "Feystone": [
+    [ 2.93, 2.24, 0.35, 0.00 ],
+    [ 0.43, 0.97, 2.34, 2.34 ],
+    [ 0.00, 0.05, 0.27, 0.81 ],
+    [ 0.00, 0.00, 0.17, 0.42 ]
+  ]
+}
