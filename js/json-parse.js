@@ -1,8 +1,8 @@
-function get_decos(a) {
+function get_decos() {
     $.getJSON('../data/Decorations.json', function (data) {
         $.each(data, function (index, entry) {
             if (index == 'Skills') {
-                alert('return ' + entry + ' // ' + a);
+                alert('return ' + entry);
                 return entry;
             };
         });
